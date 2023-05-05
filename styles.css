@@ -10,3 +10,9 @@ body::before {
     }
 }
 
+@media (max-width: 768px) {
+    .map img {
+      display: none;
+    }
+  }
+  
